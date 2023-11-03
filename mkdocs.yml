@@ -63,5 +63,5 @@ repo_url: https://github.com/EpitechPromo2026/B-CPP-500-MAR-5-1-rtype-maori.dino
 nav:
 - Installation:
   - index.md
-- Rtype_doc:
+- Rtype_docs:
   - Getting started: RType_docs/r_type_docs.md

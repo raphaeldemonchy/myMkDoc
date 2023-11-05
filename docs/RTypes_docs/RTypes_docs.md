@@ -5,9 +5,15 @@
 <a name="Top"/>
  <h1 align="center">Table of Contents</h1>
 
-- [Client](#client)
-- [Server](#server)
-- [GameEngine](#gameenegine)
+<div align="center">
+
+ [Client](#Client)  
+ [Server](#Server)  
+ [Game-Engine](#Game-Engine)
+
+</div>
+
+# 
 
 <a name="Client"/>
 

@@ -64,4 +64,4 @@ nav:
 - Installation:
   - index.md
 - RType_docs:
-  - Getting started: RType_docs/r_type_docs.md
+  - Getting started: RTypes_docs/r_type_docs.md

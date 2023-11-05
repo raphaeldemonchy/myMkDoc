@@ -1,4 +1,4 @@
-# RTypes_docs
+# RType_docs
 
 
 

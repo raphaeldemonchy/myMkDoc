@@ -61,7 +61,7 @@ repo_name: epitech-2026/HessrType
 repo_url: https://github.com/EpitechPromo2026/B-CPP-500-MAR-5-1-rtype-maori.dino
 
 nav:
-- Installation:
+- Home:
   - index.md
 - RType_docs:
   - Getting started: RTypes_docs/RTypes_docs.md

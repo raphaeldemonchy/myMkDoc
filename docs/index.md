@@ -3,7 +3,6 @@
 On this site you could find a nice documentation of our RType project.
 
 The aim of this project is to re-create the famous RType arcade game in C++ and implement client-server architecture with multi-player mode. A modular game engine was to be developed, with content creation tools. Possibility of a single-player mode with AI. The project imposes professional rigor in both the design and writing of the code, and the optimization of client-server communication. The game's performance is up to the highest standards.
-</div>
 
 
 ## Table of Contents
@@ -91,7 +90,6 @@ cd B-CPP-500-MAR-5-1-rtype-maori.dino.git
 
 You can find the project's technical documentation in our [Github-Wiki](https://github.com/EpitechPromo2026/B-CPP-500-MAR-5-1-rtype-maori.dino/wiki/RTYPE). The documentation is divided into 3 main parts, the server, the client and the game engine, in which you'll find instructions for using the game engine.
 
-<p align="right">(<a href="#R-TYPE">back to top</a>)</p>
 
 
 ## Contributing

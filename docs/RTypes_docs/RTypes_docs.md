@@ -97,18 +97,15 @@ Our **UDP** use the serialisation of our entities to make it easier to use. You 
 
 - [Rooms](#rooms)
 
-### [Protocole-TCP/UDP]
 
-<h4 align="center">TCP</h4>
+<img src="../../TCP-UDP.png" alt="Logo">
 
-
-<h4 align="center">UDP</h4>
 
 ### [Rooms]
 
 <p align="right"><a href="#Top">back to top</a></p>
 
-# 
+
 
 <a name="Game-Engine"/>
 
